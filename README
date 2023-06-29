@@ -1,1 +1,2 @@
 "npm i" to install required dependencies.
+"node app.js" to run the app
